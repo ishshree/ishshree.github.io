@@ -1,0 +1,16 @@
+# Site settings
+title: "ishadi"
+bye_message: "Copyright © 2021, ishadishree.com"
+baseurl: ""
+url: ""
+disqus: ishadi
+
+# email
+mail: mpzkovzl
+
+# Header settings
+nick: "ishadi"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
